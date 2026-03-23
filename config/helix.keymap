@@ -70,7 +70,7 @@ As such, those are in use within the default layer at this time.*/
             bindings = <&mo>, <&kp>;
 
             #binding-cells = <2>;
-            tapping-term-ms = <100>;
+            tapping-term-ms = <150>;
             flavor = "tap-preferred";
         };
     };
